@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akasou0402
 - 👀 I’m interested in AI & Blockchain.
-- 🌱 I’m currently learning MachineLearning & DAG.
+- 🌱 I’m currently learning new technologies.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - 😄 Pronouns: ...

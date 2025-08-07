@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @akasou0402
-- 👀 I’m interested in AI & Blockchain.
+- 👋 Hi, I’m Sota Akagi
+- 👀 I’m interested in AI Agent!!
 - 🌱 I’m currently learning new technologies.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
